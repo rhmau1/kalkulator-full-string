@@ -1,7 +1,7 @@
 # kalkulator-full-string
 
 Pada kalkulator full string ini user menginputkan operasi perhitungan berupa kalimat. Dan akan menghasilkan output berupa kata/kalimat juga. <br>
-Contoh penggunaan kalkulator full string
+## Contoh penggunaan kalkulator full string
 ```
 CALCULATOR FULL STRING
 ======================
