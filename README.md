@@ -15,3 +15,5 @@ Setelah konsol menampilkan output maka user akan mendapat tawaran apakah ingin m
 
 ## Catatan!!!!
 Perlu diingat bahwa kalkulator full string ini hanya bisa untuk menghitung angka dari `nol sampai sembilan` saja. Apabila lebih dari sembilan maka akan menampilkan output `hanya dapat menggunakan angka 0 sampai 9`. Dan apabila hasil perhitungannya lebih dari sembilan maka akan menampilkan output `hasil lebih dari 10`
+
+![contoh](full-string.gif)
